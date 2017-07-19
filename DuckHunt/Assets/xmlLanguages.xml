@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languages>
+
+	<language>
+	<Name>English</Name>
+	<button1>Play</button1>
+	<button2>Options</button2>
+	<button3>Exit</button3>
+	<button4>Language</button4>
+	<button5>Back</button5>
+	<label1>Controls:</label1>
+	<label2>Fist - Shoot</label2>
+	<label3>Spread fingers - Center the crosshair</label3>
+	</language>
+	
+	<language>
+	<Name>Bulgarian</Name>
+	<button1>Играй</button1>
+	<button2>Настройки</button2>
+	<button3>Изход</button3>
+	<button4>Език</button4>
+	<button5>Назад</button5>
+	<label1>Управление:</label1>
+	<label2>Юмрук - Стрелба</label2>
+	<label3>Разпънати пръсти - Центриране на мерника</label3>
+	</language>
+</languages>

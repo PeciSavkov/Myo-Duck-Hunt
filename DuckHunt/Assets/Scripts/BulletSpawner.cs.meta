@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bc0953734b026e94f9b560ac16e9ca3b
+timeCreated: 1498578646
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myo: {fileID: 100000, guid: 863250160b56e46dbb2d227833b7338a, type: 2}
+  - bullet: {fileID: 1975542627291552, guid: 2c6298a494af1104b8fb3568ad199332, type: 2}
+  - spawnPoint: {instanceID: 0}
+  - soundShot: {fileID: 8300000, guid: 952ed212d1ab4dc448125a260b4f821e, type: 3}
+  - soundEmpty: {fileID: 8300000, guid: ad84fe966bbad7d41ab272c1a7e14f3e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
